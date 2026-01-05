@@ -1,3 +1,7 @@
+<img width="1017" height="562" alt="image" src="https://github.com/user-attachments/assets/87887285-9556-4465-b7c6-eef0dd6294d8" />
+
+
+
 # Global Financial Performance Analysis 📊
 
 ## Project Overview
